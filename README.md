@@ -224,7 +224,7 @@ After saving `mcp.json`, open the **Copilot Chat** panel in VS Code, switch to *
    - This is a one-time, per-laptop setup — each developer runs it individually.
 4. Restart VS Code (or reload the window) so Copilot re-scans available skills and MCP servers.
 
-> For ease of `skills` usage, try using this oracle `db` (skill)[https://www.skills.sh/oracle/skills/db]
+> For ease of `skills` usage, try using this oracle `db` [skill](https://www.skills.sh/oracle/skills/db)
 
 ---
 
